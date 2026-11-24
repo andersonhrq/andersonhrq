@@ -1,0 +1,53 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="background" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050408"/>
+      <stop offset="48%" stop-color="#170D29"/>
+      <stop offset="100%" stop-color="#54269B"/>
+    </linearGradient>
+
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M 35 0 L 0 0 0 35" fill="none"
+            stroke="#C4A1FF" stroke-opacity="0.10" stroke-width="0.7"/>
+    </pattern>
+
+    <linearGradient id="line" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#9B72CF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C4A1FF"/>
+      <stop offset="100%" stop-color="#9B72CF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="12" fill="url(#background)"/>
+  <rect width="1200" height="260" rx="12" fill="url(#grid)"/>
+
+  <path d="M0 220 L1200 40" stroke="#C4A1FF"
+        stroke-opacity="0.08" stroke-width="1"/>
+  <path d="M0 245 L1200 65" stroke="#C4A1FF"
+        stroke-opacity="0.06" stroke-width="1"/>
+
+  <circle cx="95" cy="55" r="3" fill="#C4A1FF" opacity="0.7"/>
+  <circle cx="1105" cy="205" r="3" fill="#C4A1FF" opacity="0.7"/>
+
+  <text x="600" y="87" text-anchor="middle"
+        fill="#B995FF" font-family="monospace"
+        font-size="13" letter-spacing="5">
+    AI DEVELOPER CORE
+  </text>
+
+  <text x="600" y="145" text-anchor="middle"
+        fill="#FFFFFF" font-family="Arial, sans-serif"
+        font-size="43" font-weight="bold" letter-spacing="2">
+    ANDERSON HENRIQUE
+  </text>
+
+  <rect x="450" y="169" width="300" height="1.5"
+        fill="url(#line)"/>
+
+  <text x="600" y="202" text-anchor="middle"
+        fill="#D9C9F3" font-family="monospace"
+        font-size="13" letter-spacing="2">
+    SYSTEMS DEVELOPMENT • TECH ENTHUSIAST
+  </text>
+</svg>
