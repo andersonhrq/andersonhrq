@@ -192,19 +192,18 @@ Exploração de ferramentas de gerenciamento de conteúdo e desenvolvimento web,
 anderson@dev:~$ cat current_objectives.txt
 
 [IN PROGRESS] Python
-[IN PROGRESS] Programming Logic
-[IN PROGRESS] Data Structures
+[IN PROGRESS] WordPress
 [IN PROGRESS] SQL & Databases
-[IN PROGRESS] Git & GitHub
+[IN PROGRESS] Backend Development
 
-[NEXT] Backend Development
-[NEXT] Django
-[NEXT] REST APIs
-[NEXT] Database Integration
+[STARTING] Django
+[STARTING] Flask & FastAPI
+[STARTING] MongoDB
+[STARTING] REST APIs & Django REST Framework
+[STARTING] File & Database Persistence
 
-[EXPLORING] JavaScript
-[EXPLORING] Docker
-[EXPLORING] Software Architecture
+[NEXT] SOLID Principles
+[NEXT] Design Patterns
 
 anderson@dev:~$ echo "Keep learning. Keep building."
 
@@ -263,23 +262,23 @@ Keep learning. Keep building.
 
 <div align="center">
 
-<a href="https://github.com/andersonhrq">
-  <img src="https://img.shields.io/badge/GitHub-Follow-9B72CF?style=for-the-badge&logo=github&logoColor=white&labelColor=100C19"/>
+<a href="https://www.instagram.com/ahenriqueks/">
+<img src="https://img.shields.io/badge/Instagram-Follow-9B72CF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=100C19"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU-PERFIL/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-B995FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=100C19"/>
 </a>
 
 <a href="mailto:medeirosanderson31@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-B995FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=100C19"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-9B72CF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=100C19"/>
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08060F,50:170D29,100:54269B&height=3&section=footer" width="100%"/>
-
-### `SYSTEM MESSAGE`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08060F,50:170D29,100:54269B&height=3&section=footer"/>### `SYSTEM MESSAGE`
 
 **"Every problem is an opportunity to build something better."**
 
