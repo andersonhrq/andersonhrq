@@ -234,31 +234,7 @@ Keep learning. Keep building.
 
 ---
 
-## `07` // GITHUB TROPHIES
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=andersonhrq&theme=discord&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## `08` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andersonhrq/andersonhrq/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andersonhrq/andersonhrq/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/andersonhrq/andersonhrq/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</picture>
-
-</div>
-
----
-
-## `09` // CONNECT WITH ME
+## `07` // CONNECT WITH ME
 
 <div align="center">
 
@@ -266,7 +242,7 @@ Keep learning. Keep building.
 <img src="https://img.shields.io/badge/Instagram-Follow-9B72CF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=100C19"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-PERFIL/">
+<a href="https://www.linkedin.com/in/anderson-henrique-7abb18158/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-B995FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=100C19"/>
 </a>
 
